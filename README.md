@@ -26,6 +26,13 @@ This Data Science project focuses on analyzing stock prices from 1999 to 2024, u
 
 - **Moving Averages:** Plotted 2008 moving averages for State Bank of India (SBI) and Bank of America (BOA).
 
+## Image Screenshot
+
+![Stock Chart](images/5.png)
+![Cluster Map](images/9.png)
+![Heat Map](images/7.png)
+![Stocj Avg Chart](images/8.png)
+
 ## Conclusion
 
 This project provides thorough insights into stock performance over time, revealing notable patterns and events. The use of advanced analytical techniques and visualization tools ensures a comprehensive exploration and interpretation of the data.
